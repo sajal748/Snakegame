@@ -8,7 +8,9 @@ Welcome to the Snake Game project! This is a classic snake game implemented usin
 The project consists of the following files:
 
 • main.py: This is the main file that contains the game logic, initializes the GUI, and handles user input.
+
 • food.py: This file defines the Food class, responsible for generating and updating the food position within the game.
+
 • scoreboard.py: This file defines the Scoreboard class, which keeps track of the player's score and updates it throughout the game.
 
 # Requirements
